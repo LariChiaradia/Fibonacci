@@ -1,6 +1,6 @@
 ﻿using Fibonacci.Executer;
 
-var testNumber = 35;
-var result = FibonacciExecuter.IsFibonacciNumber(testNumber);
+var testNumber = 8;
+var text = FibonacciExecuter.IsFibonacciNumber(testNumber) ? "Pertence a sequência de Fibonacci" : "Não percente a sequência de Fibonacci";
 
-Console.WriteLine(result);
+Console.WriteLine(text);
