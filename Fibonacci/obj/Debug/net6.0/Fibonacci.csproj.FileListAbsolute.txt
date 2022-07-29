@@ -1,0 +1,15 @@
+F:\repositorio-git\Fibonacci\Fibonacci\bin\Debug\net6.0\Fibonacci.exe
+F:\repositorio-git\Fibonacci\Fibonacci\bin\Debug\net6.0\Fibonacci.deps.json
+F:\repositorio-git\Fibonacci\Fibonacci\bin\Debug\net6.0\Fibonacci.runtimeconfig.json
+F:\repositorio-git\Fibonacci\Fibonacci\bin\Debug\net6.0\Fibonacci.dll
+F:\repositorio-git\Fibonacci\Fibonacci\bin\Debug\net6.0\Fibonacci.pdb
+F:\repositorio-git\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.csproj.AssemblyReference.cache
+F:\repositorio-git\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+F:\repositorio-git\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.AssemblyInfoInputs.cache
+F:\repositorio-git\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.AssemblyInfo.cs
+F:\repositorio-git\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.csproj.CoreCompileInputs.cache
+F:\repositorio-git\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.dll
+F:\repositorio-git\Fibonacci\Fibonacci\obj\Debug\net6.0\refint\Fibonacci.dll
+F:\repositorio-git\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.pdb
+F:\repositorio-git\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.genruntimeconfig.cache
+F:\repositorio-git\Fibonacci\Fibonacci\obj\Debug\net6.0\ref\Fibonacci.dll
